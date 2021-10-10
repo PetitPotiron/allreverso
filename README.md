@@ -2,7 +2,7 @@
 [<img src="docs/python_allreverso.png" width="50" alt="logo de allreverso">](https://petitpotiron.github.io/allreverso/fr/)
 
 
-[![widget du serveur discord](https://discord.com/api/guilds/831480772455038996/embed.png)](https://discord.gg/v4yfnjWKvy)
+[![widget du serveur discord](https://discord.com/api/guilds/800032961525317693/embed.png)](https://discord.gg/t2dxrXMKya)
 [![version de allreverso](https://img.shields.io/pypi/v/allreverso.svg)](https://pypi.org/project/allreverso/)
 [![versions de python supportées](https://img.shields.io/pypi/pyversions/allreverso.svg)](https://pypi.org/project/allreverso/)
 
